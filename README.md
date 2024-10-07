@@ -4,6 +4,8 @@
 $\color{hsl(0,100%,50%)}{\textsf{Compania}}$
 ```
 
+$\color{black}{\textsf{Black}}$
+
 ## Objetivos
 
 ### Objetivos General
