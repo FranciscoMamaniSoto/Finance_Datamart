@@ -5,6 +5,8 @@
 ```
 - text in red
 
+$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$ asda
+
 ## Objetivos
 
 ### Objetivos General
