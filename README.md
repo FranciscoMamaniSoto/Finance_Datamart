@@ -4,7 +4,7 @@
 $\color{hsl(0,100%,50%)}{\textsf{Compania}}$
 ```
 
-$\color{black}{\textsf{Black}}$
+$\color{blue}{\textsf{Blue}}$
 
 ## Objetivos
 
