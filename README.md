@@ -2,6 +2,7 @@
 
 
 $\textcolor{red}{\textsf{Compañia y datos serán confidenciales.}}$
+**El propósito de este repositorio es solo de mostrar el trabajo final.**
 
 ## Objetivos
 
