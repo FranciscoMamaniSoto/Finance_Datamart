@@ -3,7 +3,7 @@
 
 $\textcolor{red}{\textsf{Compañia y datos serán confidenciales.}}$
 
-**El propósito de este repositorio es solo de mostrar el trabajo final.**
+**El propósito de este repositorio es solo de mostrar el trabajo final. Este Datamart es solo una pequeña parte de la solución final, que fue un Datawarehouse con un Scope para más áreas (Finanzas, Recursos Humanos, Riesgo, Proyectos, Operation Readiness).**
 
 ## Objetivos
 
@@ -74,4 +74,4 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
 
 *Información se encuentra censurada*
 
-***Más tableros en la carpeta /Tableros***
+***Más tableros en la carpeta /Tableros. Los tableros presentes solo son una pequeña muestra del resultado final.***
