@@ -1,5 +1,7 @@
 # Finance Datamart
-### Compañía y la mayoría de los datos mostrados serán confidenciales.
+- Compañía y la mayoría de los datos mostrados serán confidenciales.
+
+- text in red
 
 ## Objetivos
 
