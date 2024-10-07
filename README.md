@@ -4,6 +4,8 @@
 $\color{red}{\textsf{Compañia y datos serán confidenciales.}}$
 ```
 
+$\textcolor{red}{\textsf{lorem ipsum}}$
+
 $\color{blue}{\textsf{Blue}}$
 
 ## Objetivos
