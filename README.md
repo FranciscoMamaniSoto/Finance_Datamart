@@ -32,3 +32,11 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
 ### Arquitectura de la solución
 
 <img class="center" width=300 src="https://github.com/user-attachments/assets/6fa11515-c3ed-4a5a-aa9f-a467e626a021">
+
+### Software y Herramientas
+
+  - Sharepoint
+  - Microsoft SQL Server Management Studio 2017
+  - Visual Studio 2017 (SSDT)
+  - Power BI
+  - Python
