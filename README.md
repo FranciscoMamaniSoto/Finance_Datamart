@@ -1,10 +1,8 @@
 # Finance Datamart
 
 ```
-$\color{hsl(0,100%,50%)}{\textsf{Compañía y la mayoría de los datos mostrados serán confidenciales.}}$
+$\color{hsl(0,100%,50%)}{\textsf{Compania}}$
 ```
-
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
 
 ## Objetivos
 
