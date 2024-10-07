@@ -1,7 +1,7 @@
 # Finance Datamart
 
 ```
-$\color{hsl(0,100%,50%)}{\textsf{Compania}}$
+$\color{red}{\textsf{Compañia y datos serán confidenciales.}}$
 ```
 
 $\color{blue}{\textsf{Blue}}$
