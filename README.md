@@ -24,3 +24,6 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
 •	Evaluar y validar los indicadores consolidados en la solución de inteligencia de negocios comparándolos con los reportes financieros anteriores.
 
 
+### Fuentes de Datos
+
+![Screenshot 2024-10-07 at 2 03 42 PM](https://github.com/user-attachments/assets/8da75472-491f-4f68-8ce4-034818697866)
