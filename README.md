@@ -73,4 +73,5 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
 ![Screenshot 2024-10-07 at 4 34 42 PM](https://github.com/user-attachments/assets/7752daa4-357b-4348-935d-417f83436759)
 
 *Información se encuentra censurada*
+
 ***Más tableros en la carpeta /Tableros***
