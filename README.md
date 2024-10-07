@@ -1,8 +1,7 @@
 # Finance Datamart
 
-```
+
 $\textcolor{red}{\textsf{Compañia y datos serán confidenciales.}}$
-```
 
 ## Objetivos
 
