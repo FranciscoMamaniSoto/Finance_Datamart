@@ -40,3 +40,8 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
   - Visual Studio 2017 (SSDT)
   - Power BI
   - Python
+
+### Modelo Físico
+
+![Screenshot 2024-10-07 at 2 36 44 PM](https://github.com/user-attachments/assets/712234e7-5cb1-4a8c-873a-eb8d76a6fa2b)
+
