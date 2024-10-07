@@ -27,3 +27,8 @@ Diseñar e implementar un Datamart para mejorar el proceso de toma de decisiones
 ### Fuentes de Datos
 
 ![Screenshot 2024-10-07 at 2 03 42 PM](https://github.com/user-attachments/assets/8da75472-491f-4f68-8ce4-034818697866)
+
+
+### Arquitectura de la solución
+
+<img width=500 src="https://github.com/user-attachments/assets/6fa11515-c3ed-4a5a-aa9f-a467e626a021">
