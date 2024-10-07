@@ -1,11 +1,10 @@
 # Finance Datamart
-- Compañía y la mayoría de los datos mostrados serán confidenciales.
-```
-- text in red
-```
-- text in red
 
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$ asda
+```
+$\color{hsl(0,100%,50%)}{\textsf{Compañía y la mayoría de los datos mostrados serán confidenciales.}}$
+```
+
+$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
 
 ## Objetivos
 
